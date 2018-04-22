@@ -1,8 +1,8 @@
 {
   "compatibleVersion": 3,
   "bundleVersion": 1,
-  "appcast": "http://lightwireplugin.com/files/plugin.xml",
-  "authorEmail": "lightwire.cs@gmail.com",
+  "appcast": "https://raw.githubusercontent.com/alex-matt/sketch-lightwire-plugin/master/.appcast.xml",
+  "authorEmail": "mattalexalexmatt@gmail.com",
   "icon": "icon.png",
   "commands": [
     {
