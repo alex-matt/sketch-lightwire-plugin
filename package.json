@@ -28,5 +28,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/alex-matt/sketch-lightwire-plugin.git"
-  }
+  },
+  "version": "1.0.0"
 }
