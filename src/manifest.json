@@ -1,0 +1,21 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "appcast": "http://lightwireplugin.com/files/plugin.xml",
+  "authorEmail": "lightwire.cs@gmail.com",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Artboards",
+      "identifier": "artboards",
+      "script": "./artboards.js",
+      "handler": "start"
+    }
+  ],
+  "menu": {
+    "title": "Lightwire",
+    "items": [
+      "artboards"
+    ]
+  }
+}

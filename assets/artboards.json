@@ -1,0 +1,193 @@
+[
+  {
+    "n": "Login & Sign up",
+    "i": [
+      {
+        "n": "First screen with login and sign up buttons",
+        "a": "login-1"
+      },
+       {
+        "n": "Login",
+        "a": "login-2"
+      },
+       {
+        "n": "Login with social options",
+        "a": "login-3"
+      },
+       {
+        "n": "Sign up",
+        "a": "login-4"
+      }
+    ]
+  },
+
+  {
+    "n": "Walkthrough",
+    "i": [
+      {
+        "n": "Walkthrough with bullets",
+        "a": "walkthrough-1"
+      },
+       {
+        "n": "Walkthrough with cards",
+        "a": "walkthrough-2"
+      }
+    ]
+  },
+
+  {
+    "n": "Social",
+    "i": [
+      {
+        "n": "Feed with picture cards",
+        "a": "feed-1"
+      },
+       {
+        "n": "Activity",
+        "a": "feed-2"
+      },
+      {
+        "n": "Contacts",
+        "a": "contacts-1"
+      },
+      {
+        "n": "Profile with big header",
+        "a": "profile-1"
+      },
+      {
+        "n": "Profile with small header",
+        "a": "profile-2"
+      },
+      {
+        "n": "Chat list",
+        "a": "message-1"
+      },
+      {
+        "n": "Chat inner",
+        "a": "message-2"
+      },
+      {
+        "n": "Create new post",
+        "a": "new-post"
+      }
+    ]
+  },
+
+  {
+    "n": "E-commerce",
+    "i": [
+      {
+        "n": "Catalog with 2 pictures in a row",
+        "a": "catalog-1"
+      },
+       {
+        "n": "Catalog with big item",
+        "a": "catalog-2"
+      },
+      {
+        "n": "Catalog with list style items",
+        "a": "catalog-3"
+      },
+      {
+        "n": "Catalog with category title",
+        "a": "catalog-4"
+      },
+      {
+        "n": "Single item with info",
+        "a": "single-item-1"
+      },
+      {
+        "n": "Single item card view",
+        "a": "single-item-2"
+      },
+      {
+        "n": "Cart with counter",
+        "a": "cart-1"
+      },
+      {
+        "n": "Cart with image",
+        "a": "cart-2"
+      },
+      {
+        "n": "Check out",
+        "a": "check-out-1"
+      },
+      {
+        "n": "Congratulations screen [check out]",
+        "a": "check-out-2"
+      }
+    ]
+  },
+
+
+  {
+    "n": "Filters",
+    "i": [
+      {
+        "n": "Filter screen",
+        "a": "filters-1"
+      }
+    ]
+  },
+
+
+  {
+    "n": "Blog",
+    "i": [
+      {
+        "n": "Blog feed",
+        "a": "blog-1"
+      },
+      {
+        "n": "Single post",
+        "a": "blog-2"
+      }
+    ]
+  },
+
+  {
+    "n": "Photos",
+    "i": [
+      {
+        "n": "Camera view",
+        "a": "photo-1"
+      },
+      {
+        "n": "Gallery",
+        "a": "photo-2"
+      },
+      {
+        "n": "Single picture view",
+        "a": "photo-3"
+      }
+    ]
+  },
+
+  {
+    "n": "Popups",
+    "i": [
+      {
+        "n": "Regular popup",
+        "a": "popup-1"
+      },
+      {
+        "n": "Popup with image",
+        "a": "popup-2"
+      }
+    ]
+  },
+
+  {
+    "n": "Settings",
+    "i": [
+      {
+        "n": "Setting categories",
+        "a": "settings-1"
+      },
+      {
+        "n": "Settings inner",
+        "a": "settings-2"
+      }
+    ]
+  }
+]
