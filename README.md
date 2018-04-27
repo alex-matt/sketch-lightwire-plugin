@@ -16,6 +16,10 @@
 Coming soon
 
 ## About authors 
-Matthew - Developer [Twitter](https://twitter.com/killr0x33d) [Hackerone](https://hackerone.com/killr0x33d)
+Matthew M. - Developer [Twitter](https://twitter.com/killr0x33d) [Hackerone](https://hackerone.com/killr0x33d)
 
-Alex - Designer [Twitter](https://twitter.com/alxquare) [Dribbble](https://dribbble.com/Alxquare)
+Alexander M. - Designer [Twitter](https://twitter.com/alxquare) [Dribbble](https://dribbble.com/Alxquare)
+
+## Watch how we created this plugin
+We did this plugin as a side project and decided to film the creation process. Check the video out: 
+[YOUTUBE](https://www.youtube.com/watch?v=1MlwVMMWrTY)
