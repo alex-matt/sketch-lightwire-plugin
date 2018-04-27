@@ -3,7 +3,7 @@
 
 Free plugin that gives you the opportunity to test your ideas fast and easy with our panel with ready-to-use screens.
 
-[DOWNLOAD LINK](https://github.com/alex-matt/sketch-lightwire-plugin/releases/download/v1.0.0/lightwire.sketchplugin.zip).
+[DOWNLOAD LINK](https://github.com/alex-matt/sketch-lightwire-plugin/releases/download/v1.0.0/lightwire.sketchplugin.zip)
 
 To install plugin, unzip archive and double click on extracted **lightwire.sketchplugin**.
 
