@@ -3,11 +3,11 @@
 
 Free plugin that gives you the opportunity to test your ideas fast and easy with our panel with ready-to-use screens.
 
-You need [Montserrat font](https://fonts.google.com/specimen/Montserrat) for the proper use.
-
 [DOWNLOAD LINK](https://github.com/alex-matt/sketch-lightwire-plugin/releases/download/v1.0.0/lightwire.sketchplugin.zip).
 
 To install plugin, unzip archive and double click on extracted **lightwire.sketchplugin**.
+
+You will need [Montserrat font](https://fonts.google.com/specimen/Montserrat) for the proper usage.
 
 ## Demo
 ![How it works](http://lightwireplugin.com/lightwire-how-it-works.gif)
