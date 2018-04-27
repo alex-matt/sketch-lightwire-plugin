@@ -28,4 +28,5 @@ Alexander M. - Designer [Twitter](https://twitter.com/alxquare) | [Dribbble](htt
 ## Watch how we created this plugin
 We did this plugin as a side project and decided to film the creation process. Check the video out: 
 [YOUTUBE](https://www.youtube.com/watch?v=1MlwVMMWrTY)
+
 ![Watch how we created on youtube](http://lightwireplugin.com/lw2.png)
