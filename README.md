@@ -11,3 +11,10 @@
 8. Menus
 9. Popups
 10. Charts
+
+## Elements
+Coming soon
+
+## About authors 
+Matthew - developer [Twitter](https://twitter.com/killr0x33d) [Hackerone](https://hackerone.com/killr0x33d)
+Alex - designer [Twitter](https://twitter.com/alxquare) [Dribbble](https://dribbble.com/Alxquare)
