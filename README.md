@@ -1,6 +1,9 @@
 # Lightning fast wireframing in Sketch
-Free plugin that gives you the opportunity to test your ideas fast and easy with our panel with ready-to-use screens.
 ![Lightwire plugin](http://lightwireplugin.com/lw.png)
+
+Free plugin that gives you the opportunity to test your ideas fast and easy with our panel with ready-to-use screens.
+## Demo
+![How it works](http://lightwireplugin.com/lightwire-how-it-works.gif)
 
 ## Wireframes for 10 different categories
 1. E-commerce
@@ -18,9 +21,9 @@ Free plugin that gives you the opportunity to test your ideas fast and easy with
 Coming soon
 
 ## About authors 
-Matthew M. - Developer [Twitter](https://twitter.com/killr0x33d) [Hackerone](https://hackerone.com/killr0x33d)
+Matthew M. - Developer [Twitter](https://twitter.com/killr0x33d) | [Hackerone](https://hackerone.com/killr0x33d)
 
-Alexander M. - Designer [Twitter](https://twitter.com/alxquare) [Dribbble](https://dribbble.com/Alxquare)
+Alexander M. - Designer [Twitter](https://twitter.com/alxquare) | [Dribbble](https://dribbble.com/Alxquare)
 
 ## Watch how we created this plugin
 We did this plugin as a side project and decided to film the creation process. Check the video out: 
