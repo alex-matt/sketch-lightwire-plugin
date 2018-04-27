@@ -1,4 +1,5 @@
 # Lightning fast wireframing in Sketch
+Free plugin that gives you the opportunity to test your ideas fast and easy with our panel with ready-to-use screens.
 
 ## Wireframes for 10 different categories
 1. E-commerce
