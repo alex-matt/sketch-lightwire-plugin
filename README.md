@@ -2,6 +2,7 @@
 ![Lightwire plugin](http://lightwireplugin.com/lw.png)
 
 Free plugin that gives you the opportunity to test your ideas fast and easy with our panel with ready-to-use screens.
+You need [Montserrat font](https://fonts.google.com/specimen/Montserrat) for the proper use.
 ## Demo
 ![How it works](http://lightwireplugin.com/lightwire-how-it-works.gif)
 
