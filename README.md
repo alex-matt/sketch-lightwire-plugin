@@ -16,5 +16,6 @@
 Coming soon
 
 ## About authors 
-Matthew - developer [Twitter](https://twitter.com/killr0x33d) [Hackerone](https://hackerone.com/killr0x33d)
-Alex - designer [Twitter](https://twitter.com/alxquare) [Dribbble](https://dribbble.com/Alxquare)
+Matthew - Developer [Twitter](https://twitter.com/killr0x33d) [Hackerone](https://hackerone.com/killr0x33d)
+
+Alex - Designer [Twitter](https://twitter.com/alxquare) [Dribbble](https://dribbble.com/Alxquare)
