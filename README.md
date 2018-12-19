@@ -39,3 +39,4 @@ Check the video out:
 [YOUTUBE](https://www.youtube.com/watch?v=1MlwVMMWrTY)
 
 ![Watch how we created on youtube](http://lightwireplugin.com/lw2.png)
+Format: ![WEEKEND SPRINTS - Creating sketch plugin](https://www.youtube.com/watch?v=1MlwVMMWrTY)
