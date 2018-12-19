@@ -28,7 +28,7 @@ You will need [Montserrat font](https://fonts.google.com/specimen/Montserrat) fo
 Coming soon
 
 ## About authors 
-Matthew M. - Developer [Twitter](https://twitter.com/killr0x33d) | [Hackerone](https://hackerone.com/killr0x33d)
+Matthew M. - Developer [Twitter](https://twitter.com/r0x33d) | [Hackerone](https://hackerone.com/r0x33d)
 
 Alexander M. - Designer [Twitter](https://twitter.com/alxquare) | [Dribbble](https://dribbble.com/Alxquare)
 
